@@ -5,18 +5,24 @@ from kuhn_poker import N_CARDS, N_PLAYERS
 
 
 def main():
-    num_cfr_iterations = 10_000
+    num_cfr_iterations = 1_000
+    print(f"running a CFR solver for {num_cfr_iterations} iterations\n")
+
     root_node = build_tree()
 
-    for _ in range(num_cfr_iterations):
+    for iteration_i in range(num_cfr_iterations):
         for player in range(N_PLAYERS):
             cfr(root_node, learning_player=player)
 
-    print_tree(root_node)
+        if iteration_i % 100 == 0 or iteration_i == num_cfr_iterations - 1:
+            exploitability = calculate_exploitability(root_node)
+            print(f"iteration {iteration_i}:")
+            print(f"    exploitability for player 0: {exploitability[0]:.4f}")
+            print(f"    exploitability for player 1: {exploitability[1]:.4f}")
+            print()
 
-    exploitability = calculate_exploitability(root_node)
-    print(f"exploitability for player 0: {exploitability[0]:.4f}")
-    print(f"exploitability for player 1: {exploitability[1]:.4f}")
+    print()
+    print_tree(root_node)
 
 
 def cfr(node, learning_player):

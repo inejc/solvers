@@ -146,7 +146,8 @@ def print_tree(root_node):
         result += f"{current_node}\n\n"
         nodes_to_traverse += current_node.children
 
-    print("hand order is (J, Q, K)\n")
+    print("final tree (hand order is (J, Q, K))")
+    print("------------------------------------\n")
     print(result)
 
 
