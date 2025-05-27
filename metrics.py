@@ -2,7 +2,7 @@ import copy
 
 import numpy as np
 
-from kuhn_poker import N_PLAYERS, N_CARDS
+from kuhn_poker import N_PLAYERS, N_ACTIONS, N_CARDS
 
 
 def calculate_exploitability(root_node):
@@ -72,9 +72,12 @@ def _set_best_response_strategy_as_current_strategy(node, player):
 
     if node.state.current_player == player:
         children_cfvs = np.array([child.cfvs for child in node.children])
-        best_action_i = np.argmax(children_cfvs, axis=0)
-        node.current_strategy[best_action_i, :] = 1.0
-        node.current_strategy[~best_action_i, :] = 0.0
+
+        row_i = np.argmax(children_cfvs, axis=0)
+        col_i = np.arange(row_i.shape[0])
+
+        node.current_strategy = np.zeros((N_ACTIONS, N_CARDS))
+        node.current_strategy[row_i, col_i] = 1.0
 
     for child in node.children:
         _set_best_response_strategy_as_current_strategy(child, player)

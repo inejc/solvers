@@ -39,3 +39,9 @@ class State:
         return self.history[-2:] == "bp" or \
             self.history[-2:] == "bb" or \
             self.history[-2:] == "pp"
+
+    def is_showdown(self):
+        # showdown happens only when both players bet or when both players pass
+        if not self.is_terminal():
+            raise ValueError("can't call is_showdown on a non-terminal state")
+        return self.history[-2:] != "bp"

@@ -6,7 +6,7 @@ from metrics import calculate_exploitability
 
 
 def main():
-    num_cfr_iterations = 2_000
+    num_cfr_iterations = 50_000
     print(f"running a CFR solver for {num_cfr_iterations} iterations\n")
 
     root_node = build_tree()

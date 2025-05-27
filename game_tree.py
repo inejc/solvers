@@ -63,32 +63,30 @@ class Node:
             )
 
         opponent = 0 if player == 1 else 1
-
-        if self.state.history[-2:] == "bp":
-            # no showdown
-            if self.state.current_player == player:
-                # player won
-                payoff = self.state.bets[opponent]
-            else:
-                # opponent won
-                payoff = -self.state.bets[player]
-
-            return np.full(N_CARDS, fill_value=payoff)
-
-        # showdown
-        # possible hands are (J, Q, K)
         payoffs = np.zeros(N_CARDS)
 
+        # order of hands is (J, Q, K)
         for my_hand in range(N_CARDS):
             for opponent_hand in range(N_CARDS):
+
                 if my_hand == opponent_hand:
                     # blocker
                     continue
 
-                if my_hand > opponent_hand:
-                    payoff = self.state.bets[opponent]
+                if self.state.is_showdown():
+                    if my_hand > opponent_hand:
+                        # player won
+                        payoff = self.state.bets[opponent]
+                    else:
+                        # opponent won
+                        payoff = -self.state.bets[player]
                 else:
-                    payoff = -self.state.bets[player]
+                    if self.state.current_player == player:
+                        # player won
+                        payoff = self.state.bets[opponent]
+                    else:
+                        # opponent won
+                        payoff = -self.state.bets[player]
 
                 payoffs[my_hand] += \
                     (self.beliefs[opponent][opponent_hand] * payoff)
