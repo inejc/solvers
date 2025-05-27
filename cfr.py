@@ -1,11 +1,12 @@
 import numpy as np
 
-from game_tree import build_tree, print_tree, calculate_exploitability
+from game_tree import build_tree, print_tree
 from kuhn_poker import N_CARDS, N_PLAYERS
+from metrics import calculate_exploitability
 
 
 def main():
-    num_cfr_iterations = 1_000
+    num_cfr_iterations = 2_000
     print(f"running a CFR solver for {num_cfr_iterations} iterations\n")
 
     root_node = build_tree()
@@ -46,12 +47,12 @@ def cfr(node, learning_player):
         children_cfvs.append(child_cfvs)
 
         if node.state.current_player == learning_player:
-            node_cfvs += child_cfvs * action_prob
+            node_cfvs += (child_cfvs * action_prob)
         else:
             node_cfvs += child_cfvs
 
     if node.state.current_player == learning_player:
-        node.cumulative_regrets += np.array(children_cfvs) - node_cfvs
+        node.cumulative_regrets += (np.array(children_cfvs) - node_cfvs)
         node.regret_matching()
 
     return node_cfvs

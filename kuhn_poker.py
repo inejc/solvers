@@ -5,13 +5,15 @@ import numpy as np
 
 N_PLAYERS = 2
 N_ACTIONS = 2
-# hand order is (J, Q, K)
-N_CARDS = 3
+N_CARDS = 3  # hand order is always assumed to be (J, Q, K)
 
 
 class Action:
     BET = "b"
     PASS = "p"
+
+
+VALID_ACTIONS = (Action.BET, Action.PASS)
 
 
 class State:
@@ -21,8 +23,15 @@ class State:
         self.history = ""
 
     def apply_action(self, action):
+        if action not in VALID_ACTIONS:
+            raise ValueError("apply_action received an invalid action")
+
+        if self.is_terminal():
+            raise ValueError("can't call apply_action on a terminal state")
+
         if action == Action.BET:
             self.bets[self.current_player] += 1
+
         self.history += action
         self.current_player = 0 if self.current_player == 1 else 1
 
