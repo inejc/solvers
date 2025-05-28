@@ -1,0 +1,2113 @@
+running a CFR solver for 50000 iterations
+
+iteration 0:
+    exploitability for player 0: 0.7917
+    exploitability for player 1: 2.0417
+
+iteration 100:
+    exploitability for player 0: 0.0541
+    exploitability for player 1: 0.0336
+
+iteration 200:
+    exploitability for player 0: 0.0253
+    exploitability for player 1: 0.0184
+
+iteration 300:
+    exploitability for player 0: 0.0147
+    exploitability for player 1: 0.0195
+
+iteration 400:
+    exploitability for player 0: 0.0136
+    exploitability for player 1: 0.0079
+
+iteration 500:
+    exploitability for player 0: 0.0083
+    exploitability for player 1: 0.0062
+
+iteration 600:
+    exploitability for player 0: 0.0086
+    exploitability for player 1: 0.0076
+
+iteration 700:
+    exploitability for player 0: 0.0067
+    exploitability for player 1: 0.0041
+
+iteration 800:
+    exploitability for player 0: 0.0070
+    exploitability for player 1: 0.0036
+
+iteration 900:
+    exploitability for player 0: 0.0081
+    exploitability for player 1: 0.0052
+
+iteration 1000:
+    exploitability for player 0: 0.0059
+    exploitability for player 1: 0.0066
+
+iteration 1100:
+    exploitability for player 0: 0.0065
+    exploitability for player 1: 0.0047
+
+iteration 1200:
+    exploitability for player 0: 0.0042
+    exploitability for player 1: 0.0025
+
+iteration 1300:
+    exploitability for player 0: 0.0046
+    exploitability for player 1: 0.0049
+
+iteration 1400:
+    exploitability for player 0: 0.0052
+    exploitability for player 1: 0.0046
+
+iteration 1500:
+    exploitability for player 0: 0.0035
+    exploitability for player 1: 0.0022
+
+iteration 1600:
+    exploitability for player 0: 0.0032
+    exploitability for player 1: 0.0049
+
+iteration 1700:
+    exploitability for player 0: 0.0036
+    exploitability for player 1: 0.0019
+
+iteration 1800:
+    exploitability for player 0: 0.0028
+    exploitability for player 1: 0.0043
+
+iteration 1900:
+    exploitability for player 0: 0.0034
+    exploitability for player 1: 0.0018
+
+iteration 2000:
+    exploitability for player 0: 0.0026
+    exploitability for player 1: 0.0040
+
+iteration 2100:
+    exploitability for player 0: 0.0026
+    exploitability for player 1: 0.0017
+
+iteration 2200:
+    exploitability for player 0: 0.0029
+    exploitability for player 1: 0.0036
+
+iteration 2300:
+    exploitability for player 0: 0.0023
+    exploitability for player 1: 0.0021
+
+iteration 2400:
+    exploitability for player 0: 0.0037
+    exploitability for player 1: 0.0025
+
+iteration 2500:
+    exploitability for player 0: 0.0031
+    exploitability for player 1: 0.0027
+
+iteration 2600:
+    exploitability for player 0: 0.0025
+    exploitability for player 1: 0.0018
+
+iteration 2700:
+    exploitability for player 0: 0.0023
+    exploitability for player 1: 0.0028
+
+iteration 2800:
+    exploitability for player 0: 0.0026
+    exploitability for player 1: 0.0018
+
+iteration 2900:
+    exploitability for player 0: 0.0026
+    exploitability for player 1: 0.0016
+
+iteration 3000:
+    exploitability for player 0: 0.0022
+    exploitability for player 1: 0.0029
+
+iteration 3100:
+    exploitability for player 0: 0.0021
+    exploitability for player 1: 0.0021
+
+iteration 3200:
+    exploitability for player 0: 0.0020
+    exploitability for player 1: 0.0014
+
+iteration 3300:
+    exploitability for player 0: 0.0022
+    exploitability for player 1: 0.0022
+
+iteration 3400:
+    exploitability for player 0: 0.0021
+    exploitability for player 1: 0.0021
+
+iteration 3500:
+    exploitability for player 0: 0.0018
+    exploitability for player 1: 0.0013
+
+iteration 3600:
+    exploitability for player 0: 0.0022
+    exploitability for player 1: 0.0015
+
+iteration 3700:
+    exploitability for player 0: 0.0019
+    exploitability for player 1: 0.0023
+
+iteration 3800:
+    exploitability for player 0: 0.0019
+    exploitability for player 1: 0.0021
+
+iteration 3900:
+    exploitability for player 0: 0.0015
+    exploitability for player 1: 0.0014
+
+iteration 4000:
+    exploitability for player 0: 0.0018
+    exploitability for player 1: 0.0014
+
+iteration 4100:
+    exploitability for player 0: 0.0018
+    exploitability for player 1: 0.0020
+
+iteration 4200:
+    exploitability for player 0: 0.0012
+    exploitability for player 1: 0.0021
+
+iteration 4300:
+    exploitability for player 0: 0.0016
+    exploitability for player 1: 0.0016
+
+iteration 4400:
+    exploitability for player 0: 0.0012
+    exploitability for player 1: 0.0012
+
+iteration 4500:
+    exploitability for player 0: 0.0016
+    exploitability for player 1: 0.0012
+
+iteration 4600:
+    exploitability for player 0: 0.0019
+    exploitability for player 1: 0.0017
+
+iteration 4700:
+    exploitability for player 0: 0.0013
+    exploitability for player 1: 0.0019
+
+iteration 4800:
+    exploitability for player 0: 0.0014
+    exploitability for player 1: 0.0017
+
+iteration 4900:
+    exploitability for player 0: 0.0014
+    exploitability for player 1: 0.0013
+
+iteration 5000:
+    exploitability for player 0: 0.0012
+    exploitability for player 1: 0.0011
+
+iteration 5100:
+    exploitability for player 0: 0.0015
+    exploitability for player 1: 0.0011
+
+iteration 5200:
+    exploitability for player 0: 0.0016
+    exploitability for player 1: 0.0014
+
+iteration 5300:
+    exploitability for player 0: 0.0015
+    exploitability for player 1: 0.0016
+
+iteration 5400:
+    exploitability for player 0: 0.0012
+    exploitability for player 1: 0.0016
+
+iteration 5500:
+    exploitability for player 0: 0.0014
+    exploitability for player 1: 0.0014
+
+iteration 5600:
+    exploitability for player 0: 0.0013
+    exploitability for player 1: 0.0011
+
+iteration 5700:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0009
+
+iteration 5800:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0008
+
+iteration 5900:
+    exploitability for player 0: 0.0012
+    exploitability for player 1: 0.0009
+
+iteration 6000:
+    exploitability for player 0: 0.0013
+    exploitability for player 1: 0.0011
+
+iteration 6100:
+    exploitability for player 0: 0.0014
+    exploitability for player 1: 0.0013
+
+iteration 6200:
+    exploitability for player 0: 0.0013
+    exploitability for player 1: 0.0014
+
+iteration 6300:
+    exploitability for player 0: 0.0012
+    exploitability for player 1: 0.0014
+
+iteration 6400:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0013
+
+iteration 6500:
+    exploitability for player 0: 0.0009
+    exploitability for player 1: 0.0013
+
+iteration 6600:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0013
+
+iteration 6700:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0012
+
+iteration 6800:
+    exploitability for player 0: 0.0012
+    exploitability for player 1: 0.0010
+
+iteration 6900:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0008
+
+iteration 7000:
+    exploitability for player 0: 0.0009
+    exploitability for player 1: 0.0007
+
+iteration 7100:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0008
+
+iteration 7200:
+    exploitability for player 0: 0.0009
+    exploitability for player 1: 0.0008
+
+iteration 7300:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0007
+
+iteration 7400:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0007
+
+iteration 7500:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0007
+
+iteration 7600:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0008
+
+iteration 7700:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0009
+
+iteration 7800:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0008
+
+iteration 7900:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0008
+
+iteration 8000:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0008
+
+iteration 8100:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0009
+
+iteration 8200:
+    exploitability for player 0: 0.0011
+    exploitability for player 1: 0.0009
+
+iteration 8300:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0008
+
+iteration 8400:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0009
+
+iteration 8500:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0009
+
+iteration 8600:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0008
+
+iteration 8700:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0008
+
+iteration 8800:
+    exploitability for player 0: 0.0009
+    exploitability for player 1: 0.0008
+
+iteration 8900:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0008
+
+iteration 9000:
+    exploitability for player 0: 0.0010
+    exploitability for player 1: 0.0007
+
+iteration 9100:
+    exploitability for player 0: 0.0009
+    exploitability for player 1: 0.0007
+
+iteration 9200:
+    exploitability for player 0: 0.0009
+    exploitability for player 1: 0.0007
+
+iteration 9300:
+    exploitability for player 0: 0.0009
+    exploitability for player 1: 0.0006
+
+iteration 9400:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0006
+
+iteration 9500:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0006
+
+iteration 9600:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0006
+
+iteration 9700:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 9800:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0006
+
+iteration 9900:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0007
+
+iteration 10000:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0006
+
+iteration 10100:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0007
+
+iteration 10200:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0008
+
+iteration 10300:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0008
+
+iteration 10400:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0009
+
+iteration 10500:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0010
+
+iteration 10600:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0009
+
+iteration 10700:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0009
+
+iteration 10800:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0009
+
+iteration 10900:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0007
+
+iteration 11000:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0007
+
+iteration 11100:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0006
+
+iteration 11200:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0005
+
+iteration 11300:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0006
+
+iteration 11400:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 11500:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0006
+
+iteration 11600:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0007
+
+iteration 11700:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0007
+
+iteration 11800:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0008
+
+iteration 11900:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0009
+
+iteration 12000:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0008
+
+iteration 12100:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0008
+
+iteration 12200:
+    exploitability for player 0: 0.0008
+    exploitability for player 1: 0.0006
+
+iteration 12300:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0005
+
+iteration 12400:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 12500:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 12600:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0006
+
+iteration 12700:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0007
+
+iteration 12800:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0008
+
+iteration 12900:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0008
+
+iteration 13000:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0007
+
+iteration 13100:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0007
+
+iteration 13200:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0005
+
+iteration 13300:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 13400:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 13500:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0006
+
+iteration 13600:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0007
+
+iteration 13700:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0007
+
+iteration 13800:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0008
+
+iteration 13900:
+    exploitability for player 0: 0.0007
+    exploitability for player 1: 0.0006
+
+iteration 14000:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 14100:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 14200:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 14300:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0006
+
+iteration 14400:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0007
+
+iteration 14500:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0007
+
+iteration 14600:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0006
+
+iteration 14700:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 14800:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 14900:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 15000:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 15100:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0007
+
+iteration 15200:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0007
+
+iteration 15300:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0006
+
+iteration 15400:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 15500:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 15600:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 15700:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0006
+
+iteration 15800:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0007
+
+iteration 15900:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0006
+
+iteration 16000:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 16100:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 16200:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 16300:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 16400:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0007
+
+iteration 16500:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0006
+
+iteration 16600:
+    exploitability for player 0: 0.0006
+    exploitability for player 1: 0.0005
+
+iteration 16700:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 16800:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 16900:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 17000:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0007
+
+iteration 17100:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0006
+
+iteration 17200:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 17300:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 17400:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 17500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 17600:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0006
+
+iteration 17700:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 17800:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 17900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 18000:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 18100:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0006
+
+iteration 18200:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 18300:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 18400:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 18500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 18600:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0006
+
+iteration 18700:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0006
+
+iteration 18800:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 18900:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 19000:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 19100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0006
+
+iteration 19200:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 19300:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0004
+
+iteration 19400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 19500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 19600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 19700:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 19800:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 19900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 20000:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 20100:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 20200:
+    exploitability for player 0: 0.0005
+    exploitability for player 1: 0.0005
+
+iteration 20300:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 20400:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 20500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 20600:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 20700:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 20800:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 20900:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 21000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 21100:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 21200:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 21300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 21400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 21500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 21600:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 21700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 21800:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 21900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 22000:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 22100:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 22200:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 22300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 22400:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 22500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 22600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 22700:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 22800:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 22900:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 23000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 23100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 23200:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 23300:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 23400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 23500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 23600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 23700:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 23800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 23900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 24000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 24100:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 24200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 24300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 24400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 24500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 24600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 24700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 24800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0005
+
+iteration 24900:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 25000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 25100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 25200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 25300:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 25400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 25500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 25600:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0005
+
+iteration 25700:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 25800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 25900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 26000:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 26100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 26200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 26300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 26400:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 26500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 26600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 26700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 26800:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 26900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 27000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 27100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 27200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 27300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 27400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 27500:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0004
+
+iteration 27600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 27700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 27800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 27900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 28000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 28100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 28200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 28300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 28400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 28500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 28600:
+    exploitability for player 0: 0.0004
+    exploitability for player 1: 0.0003
+
+iteration 28700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 28800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 28900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 29000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 29100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 29200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 29300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 29400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 29500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 29600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 29700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 29800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 29900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 30000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 30100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 30200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 30300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 30400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 30500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 30600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 30700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 30800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 30900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 31000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 31100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 31200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 31300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 31400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 31500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 31600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0004
+
+iteration 31700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 31800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 31900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 32000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 32100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 32200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 32300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 32400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 32500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 32600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 32700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 32800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 32900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 33000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 33100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 33200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 33300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 33400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 33500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 33600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 33700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 33800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0004
+
+iteration 33900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 34000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 34100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 34200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 34300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 34400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 34500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 34600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 34700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 34800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 34900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 35000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 35100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 35200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 35300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 35400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 35500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 35600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 35700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 35800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 35900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 36000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 36100:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 36200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 36300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 36400:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 36500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 36600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 36700:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 36800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 36900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 37000:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 37100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 37200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 37300:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 37400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 37500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 37600:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 37700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 37800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 37900:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 38000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 38100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 38200:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 38300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 38400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 38500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 38600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 38700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 38800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 38900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 39000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 39100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 39200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 39300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 39400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 39500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 39600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 39700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 39800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 39900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 40000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 40100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 40200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 40300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 40400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 40500:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0003
+
+iteration 40600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 40700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 40800:
+    exploitability for player 0: 0.0003
+    exploitability for player 1: 0.0002
+
+iteration 40900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 41000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 41100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 41200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 41300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 41400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 41500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 41600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 41700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 41800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 41900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 42000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 42100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 42200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 42300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 42400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 42500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 42600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 42700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 42800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 42900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 43000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 43100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 43200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 43300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 43400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 43500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 43600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 43700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 43800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 43900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 44000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 44100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 44200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 44300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 44400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 44500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 44600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 44700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 44800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 44900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 45000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 45100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 45200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 45300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 45400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 45500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 45600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 45700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 45800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 45900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 46000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 46100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 46200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 46300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 46400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 46500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 46600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 46700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 46800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 46900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 47000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 47100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 47200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 47300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 47400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 47500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 47600:
+    exploitability for player 0: 0.0001
+    exploitability for player 1: 0.0003
+
+iteration 47700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 47800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 47900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 48000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 48100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 48200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 48300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 48400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 48500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 48600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 48700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 48800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 48900:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 49000:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 49100:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 49200:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 49300:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 49400:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 49500:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 49600:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 49700:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0003
+
+iteration 49800:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+iteration 49900:
+    exploitability for player 0: 0.0001
+    exploitability for player 1: 0.0002
+
+iteration 49999:
+    exploitability for player 0: 0.0002
+    exploitability for player 1: 0.0002
+
+
+final tree (hand order is (J, Q, K))
+------------------------------------
+
+node(
+  player = 0,
+  bets = [1 1],
+  history = ,
+  is_terminal = False,
+  beliefs = 
+    player 0 = [1. 1. 1.]
+    player 1 = [1. 1. 1.],
+  average strategy = 
+    bet  = [0.2027 0.0001 0.6082]
+    pass = [0.7973 0.9999 0.3918],
+)
+
+node(
+  player = 1,
+  bets = [2 1],
+  history = b,
+  is_terminal = False,
+  beliefs = 
+    player 0 = [0.1859 0.     0.6029]
+    player 1 = [1. 1. 1.],
+  average strategy = 
+    bet  = [0.     0.3334 1.    ]
+    pass = [1.     0.6666 0.    ],
+)
+
+node(
+  player = 1,
+  bets = [1 1],
+  history = p,
+  is_terminal = False,
+  beliefs = 
+    player 0 = [0.8141 1.     0.3971]
+    player 1 = [1. 1. 1.],
+  average strategy = 
+    bet  = [0.3334 0.0001 1.    ]
+    pass = [0.6666 0.9999 0.    ],
+)
+
+node(
+  player = 0,
+  bets = [2 2],
+  history = bb,
+  is_terminal = True,
+  beliefs = 
+    player 0 = [0.1859 0.     0.6029]
+    player 1 = [0.     0.3506 1.    ],
+)
+
+node(
+  player = 0,
+  bets = [2 1],
+  history = bp,
+  is_terminal = True,
+  beliefs = 
+    player 0 = [0.1859 0.     0.6029]
+    player 1 = [1.     0.6494 0.    ],
+)
+
+node(
+  player = 0,
+  bets = [1 2],
+  history = pb,
+  is_terminal = False,
+  beliefs = 
+    player 0 = [0.8141 1.     0.3971]
+    player 1 = [0.2611 0.     1.    ],
+  average strategy = 
+    bet  = [0.     0.5362 1.    ]
+    pass = [1.     0.4638 0.    ],
+)
+
+node(
+  player = 0,
+  bets = [1 1],
+  history = pp,
+  is_terminal = True,
+  beliefs = 
+    player 0 = [0.8141 1.     0.3971]
+    player 1 = [0.7389 1.     0.    ],
+)
+
+node(
+  player = 1,
+  bets = [2 2],
+  history = pbb,
+  is_terminal = True,
+  beliefs = 
+    player 0 = [0.     0.5466 0.3971]
+    player 1 = [0.2611 0.     1.    ],
+)
+
+node(
+  player = 1,
+  bets = [1 2],
+  history = pbp,
+  is_terminal = True,
+  beliefs = 
+    player 0 = [0.8141 0.4534 0.    ]
+    player 1 = [0.2611 0.     1.    ],
+)
+
+

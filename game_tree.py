@@ -6,7 +6,7 @@ from kuhn_poker import N_PLAYERS, N_ACTIONS, N_CARDS, VALID_ACTIONS, State
 
 
 class Node:
-    def __init__(self, state):
+    def __init__(self, state, cumulative_strategy_initial_value):
         self.state = state
         # beliefs are for both players at each node
         self.beliefs = np.ones((N_PLAYERS, N_CARDS))
@@ -14,7 +14,7 @@ class Node:
         self.cumulative_regrets = np.zeros((N_ACTIONS, N_CARDS))
         self.current_strategy = np.full((N_ACTIONS, N_CARDS), fill_value=0.5)
         self.cumulative_strategy = np.full(
-            (N_ACTIONS, N_CARDS), fill_value=0.5,
+            (N_ACTIONS, N_CARDS), fill_value=cumulative_strategy_initial_value,
         )
         self.children = []
 
@@ -116,10 +116,10 @@ class Node:
         return result + ")"
 
 
-def build_tree(node=None):
+def build_tree(node=None, cumulative_strategy_initial_value=0.5):
     if node is None:
-        root = Node(State())
-        build_tree(root)
+        root = Node(State(), cumulative_strategy_initial_value)
+        build_tree(root, cumulative_strategy_initial_value)
         return root
 
     if node.state.is_terminal():
@@ -129,10 +129,10 @@ def build_tree(node=None):
         child_state = copy.deepcopy(node.state)
         child_state.apply_action(action)
 
-        child_node = Node(child_state)
+        child_node = Node(child_state, cumulative_strategy_initial_value)
         node.children.append(child_node)
 
-        build_tree(child_node)
+        build_tree(child_node, cumulative_strategy_initial_value)
 
 
 def print_tree(root_node):

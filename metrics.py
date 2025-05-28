@@ -72,12 +72,18 @@ def _set_best_response_strategy_as_current_strategy(node, player):
 
     if node.state.current_player == player:
         children_cfvs = np.array([child.cfvs for child in node.children])
-
-        row_i = np.argmax(children_cfvs, axis=0)
-        col_i = np.arange(row_i.shape[0])
-
-        node.current_strategy = np.zeros((N_ACTIONS, N_CARDS))
-        node.current_strategy[row_i, col_i] = 1.0
+        node.current_strategy = best_response_strategy(children_cfvs)
 
     for child in node.children:
         _set_best_response_strategy_as_current_strategy(child, player)
+
+
+def best_response_strategy(actions_cfvs):
+    # returns a pure best response strategy based on actions' cfvs,
+    # actions_cfvs is expected to be of shape (N_ACTIONS, N_CARDS)
+    row_i = np.argmax(actions_cfvs, axis=0)
+    col_i = np.arange(row_i.shape[0])
+
+    best_response = np.zeros((N_ACTIONS, N_CARDS))
+    best_response[row_i, col_i] = 1.0
+    return best_response
